@@ -68,7 +68,7 @@ const Sidebar = () => {
                     <Image 
                     fill
                     alt="Logo"
-                    src="/tlogo.png"
+                    src="/logo.png"
                 >
                     </Image>
 
