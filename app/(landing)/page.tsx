@@ -6,7 +6,7 @@ export default function Landing() {
       <Link href="/sign-in">
 
       <Button>
-        Log-in
+        Sign-in
       </Button>
       </Link>
       <Link href="/sign-up">
