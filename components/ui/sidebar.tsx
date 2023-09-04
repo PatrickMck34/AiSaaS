@@ -73,7 +73,7 @@ const Sidebar = () => {
                     </Image>
 
                 </div>
-                <h1 className={cn("text-2xl font-bold ", montserrat.className)}>PatBot</h1>
+                <h1 className={cn("text-2xl font-bold ", montserrat.className)}>Persephone</h1>
                 </Link>
                 <div className="space-y-1">
                     {routes.map((route) => (

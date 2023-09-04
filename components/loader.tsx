@@ -10,7 +10,7 @@ const Loader = () =>{
             src="/logo.png"/>
             </div>
             <p className="text-sm text-muted-foreground">
-                PatBot is thinking...
+                Persephone is thinking...
             </p>
 
         </div>
