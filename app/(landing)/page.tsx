@@ -17,14 +17,14 @@ export default function Landing() {
       </Button>
       </Link> */}
   
-      <div className="font-sans shadow-md text-gray-200 shadow-orange-400/50 border-2 rounded-lg bg-slate-950 border-orange-300/50 flex flex-col mb-[-7%] mx-auto p-3  justify-center w-fit items-center">
+      <div className="font-sans shadow-md text-gray-200 shadow-orange-400/50 border-2 rounded-lg bg-slate-950 border-orange-300/50 flex flex-col mb-[-7%] mx-auto p-3 mt-2 justify-center w-fit items-center">
       Want to talk to Persephone?
       <div className="flex flex-row p-1 mx-5">
 
-      <button className="border-2 border-amber-700 rounded-xl p-1 ">
+      <button className="border-2 border-orange-400/50 shadow-sm shadow-orange-400/50 rounded-xl p-1 ">
         Yes
       </button>
-      <button className="border-2 border-amber-700 rounded-xl p-1 mx-5 ">
+      <button className="border-2 border-orange-400/50 rounded-xl p-1 mx-5 shadow-sm shadow-orange-400/50 ">
         No
       </button>
       </div>
